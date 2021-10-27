@@ -6,7 +6,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   margin: 0 auto;
-  column-gap: var(--dot-size);
+  column-gap: 2%;
   row-gap: var(--dot-size);
   justify-items: center;
 }
